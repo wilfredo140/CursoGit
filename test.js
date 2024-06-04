@@ -1,1 +1,1 @@
-cambio para gitkraken
+cambio para feature2, pruebas de cambios de repositorio
